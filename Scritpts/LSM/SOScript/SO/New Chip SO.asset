@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eb57f2c390288643bbe2433cba08e6c, type: 3}
+  m_Name: New Chip SO
+  m_EditorClassIdentifier: 
+  defaultAttackAnimationIndex: 0
+  sprite: {fileID: 21300000, guid: 19d2dcf1d503463458f0d11001e4320b, type: 3}
+  damage: 
+  cameraShakeValue: []
+  actionMove: []
+  defaultAttackFrefabName:
+  - 
+  prefabTrmSetting: []
+  skillAnimationIndex: 0
+  qSkill:
+    isEventSkill: 0
+    skillEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    sprite: {fileID: 21300000, guid: b0d90f66a50df89469750a062cc5efe6, type: 3}
+    damage: 0
+    cameraShakeValue: {x: 0, y: 0, z: 0}
+    shakeAnimationCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    actionMove: {x: 0, y: 0, z: 0}
+    skillEffectPrefab: 
+    prefabTrmSetting:
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0}
+      scale: {x: 0, y: 0, z: 0}
+    coolTime: 0
+    lastUseTime: 0
+  eSkill:
+    isEventSkill: 0
+    skillEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    sprite: {fileID: 21300000, guid: 8a9d3c899546a904583b312786a353cf, type: 3}
+    damage: 0
+    cameraShakeValue: {x: 0, y: 0, z: 0}
+    shakeAnimationCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    actionMove: {x: 0, y: 0, z: 0}
+    skillEffectPrefab: 
+    prefabTrmSetting:
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0}
+      scale: {x: 0, y: 0, z: 0}
+    coolTime: 0
+    lastUseTime: 0
