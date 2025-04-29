@@ -19,7 +19,7 @@ public class SkillSO : ScriptableObject
                 _skill = skill;
                 if (_skill == null)
                 {
-                    Debug.LogError("½ºÅ³ ÀÌ¸§ Àß¸ø½è¾î °³ ¸ÛÃ»ÀÌ Çã~Á¢¾Æ¢¾");
+                    Debug.LogError("ìŠ¤í‚¬ ì´ë¦„ì´ ì˜ëª» ë˜ì—ˆìŠµë‹ˆë‹¤.");
                 }
             }
 
